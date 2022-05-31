@@ -1,0 +1,5 @@
+
+#Setando a API externa que vai ser consumida
+services:
+  api-starwars:
+    url: https://swapi.dev/api/people?format=json
